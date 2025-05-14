@@ -11,12 +11,12 @@ For a clean, basic example of the Claude API in Python:
 
 2) In the Terminal (Mac & Linux) or Command Line (Windows), navigate to the file directory on your system where you've cloned this repo, eg. /home/user/Documents/repos/tech_tea_and_exchange_residency.
 
-{cd YOUR_FILE_PATH_HERE}
+'''cd YOUR_FILE_PATH_HERE'''
 
 (Note that if you are using Windows, the slashes in your file path should face this way: \)
 
 3) run claude_api_test.py
 
-{python claude_api_test.py}
+'''python claude_api_test.py'''
 
 (Note that you need to be connected to the internet to use the API.
