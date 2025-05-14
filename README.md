@@ -1,6 +1,8 @@
 # tech_tea_and_exchange_residency
 
-If you use the looper_demo code, please credit this GitHub repo!
+If you use the looper_demo_example.py code, please credit this GitHub repo!!!
+
+## to use claude_api_test.py:
 
 You will need an Anthropic developer account & API credits to use the Claude API:
 https://console.anthropic.com
